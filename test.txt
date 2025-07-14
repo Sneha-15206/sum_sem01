@@ -1,4 +1,4 @@
-amity university-Btech CSE
-batch 02
+AU-Btech CSE
+b 02
 now testing code in test01 branch 
 btech cyber security
